@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apb:home|Door43 (apb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apb|d43-apb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apb/archive/master.zip|d43-apb.zip]]
+
+**Recent Changes**
+{{changes>ns = apb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apb|Ethnologue data]]
+
